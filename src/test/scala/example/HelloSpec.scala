@@ -3,7 +3,7 @@ package example
 import org.scalatest.funsuite._
 
 class HelloSpec extends AnyFunSuite {
-  test("Hello should start with H") {
-    assert("hello".startsWith("h"))
+  test("Hello.greeting()") {
+    assert(Hello.greeting().eq("Hello"))
   }
 }
