@@ -1,2 +1,17 @@
+# refer to gitignore.io
+# https://www.toptal.com/developers/gitignore/api/macos,intellij,sbt,scala
+
+# IDE related
+.bsp
+.idea
+
+# OS generated
+.DS_Store
+
+# project generated
+target/
 *.class
 *.log
+
+# virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
+hs_err_pid*
