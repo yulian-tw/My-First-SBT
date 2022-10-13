@@ -15,6 +15,10 @@ A repo to learn Scala with sbt, to unblock exploration with `spark-shell`.
 - [sbt by example](https://www.scala-sbt.org/1.x/docs/sbt-by-example.html)
 - [Testing Scala In IntelliJ With ScalaTest](https://docs.scala-lang.org/getting-started/intellij-track/testing-scala-in-intellij-with-scalatest.html)
 
+#### Bootstrap with SBT ?
+
+This repo is setup by following [sbt by example](https://www.scala-sbt.org/1.x/docs/sbt-by-example.html). See: [scala-de201](https://github.com/yulian-tw/Scala-DE201) to bootstrap with `sbt new` command.
+
 ---
 
 ### Using Scala 3.x with Apache Spark ?
